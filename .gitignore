@@ -1,0 +1,7 @@
+python
+.idea
+pluto_happy
+.env
+kaggle
+*.csv
+*.png
